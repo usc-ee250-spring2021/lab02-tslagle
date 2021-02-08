@@ -1,6 +1,7 @@
 """ EE 250L Lab 02: GrovePi Sensors
 
 List team members here.
+Tristan Slagle
 
 Insert Github repository link here.
 """
